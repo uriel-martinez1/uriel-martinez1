@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### My name is Uriel (he/him). Collaborative, detail-oriented, and creative individual looking to apply problem-solving and management skills to a career as a software developer. Let's make something cool!
+### My name is Uriel (he/him). I am a developer based in Pittsburgh! 
